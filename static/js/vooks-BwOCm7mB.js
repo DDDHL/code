@@ -1,0 +1,1 @@
+import{c as e,r as t,g as u,j as a,k as s}from"./@vue-ChYDoftQ.js";function n(a){const s=e(a),n=t(s.value);return u(s,(e=>{n.value=e})),"function"==typeof a?n:{__v_isRef:!0,get value(){return n.value},set value(e){a.set(e)}}}function r(){const e=t(!1);return a((()=>{e.value=!0})),s(e)}export{r as i,n as u};
